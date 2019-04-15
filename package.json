@@ -1,7 +1,6 @@
 {
   "name": "react-game",
   "version": "0.1.0",
-  "private": true,
   "homepage": "https://riyalohia.github.io/react-game",
   "dependencies": {
     "gh-pages": "^2.0.1",
